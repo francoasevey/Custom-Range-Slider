@@ -9,7 +9,9 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #151515;
+    background: #1FA2FF;
+    background: -webkit-linear-gradient(to right, #A6FFCB, #12D8FA, #1FA2FF);
+    background: linear-gradient(to right, #A6FFCB, #12D8FA, #1FA2FF);
 }
 div{
     position: relative;
